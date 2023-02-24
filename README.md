@@ -2,7 +2,7 @@
 
 - [x] **Создать [репозиторий на GitHub](https://github.com/VitaliySidorov/Final_Test_Task)**
 - [x] **Нарисовать блок-схему алгоритма**
-- [x] **Снабдить репозиторий оформленным [текстовым описанием решения](https://github.com/VitaliySidorov/Final_Test_Task/blob/main/README.md "Файл README.md")**
+- [x] **Снабдить репозиторий [оформленным текстовым описанием решения](https://github.com/VitaliySidorov/Final_Test_Task/blob/main/README.md "Файл README.md")**
 - [x] **Написать программу, решающую поставленную задачу**
 - [x] **Использовать контроль версий в работе над проектом**
 
