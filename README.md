@@ -3,7 +3,7 @@
 - [x] **Создать [репозиторий на GitHub](https://github.com/VitaliySidorov/Final_Test_Task)**
 - [x] **Нарисовать блок-схему алгоритма**
 - [x] **Снабдить репозиторий [оформленным текстовым описанием решения](https://github.com/VitaliySidorov/Final_Test_Task/blob/main/README.md "Файл README.md")**
-- [x] **Написать программу, решающую поставленную задачу**
+- [x] **Написать программу, [решающую поставленную задачу](https://github.com/VitaliySidorov/Final_Test_Task/blob/main/Program.cs)**
 - [x] **Использовать контроль версий [в работе над проектом](https://github.com/VitaliySidorov/Final_Test_Task/graphs/commit-activity)**
 
 ## Задача
